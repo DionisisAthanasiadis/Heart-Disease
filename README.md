@@ -6,3 +6,4 @@ Number of Layers, Number of Neurons per Layer, Number of Epochs, Other Important
 <img height="300" width="450" alt="Model Accuracy" src="https://github.com/user-attachments/assets/0ac58b52-5a7c-494e-9af9-803ccfd612cc">
 <img width="450" alt="Model Loss" src="https://github.com/user-attachments/assets/18437c59-a547-475f-a317-8ae0c34ae0ac">
 <img width="950" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/6cf6aa96-ad5d-4074-bb8e-2decb49fa18f">
+![Pic1](https://github.com/user-attachments/assets/49203287-2f18-47ec-9a27-15da220708ec)
