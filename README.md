@@ -21,14 +21,8 @@ Number of Layers, Number of Neurons per Layer, Number of Epochs, Other Important
             justify-content: center;
             align-items: center;
         }
-
-        img {
-            width: 500px; /* Adjust width if needed */
-        }
-    </style>
-    <title>Centered Image</title>
 </head>
 <body>
-    <img src="path-to-your-image/Στιγμιότυπο οθόνης 2024-09-14, 3.05.03 πμ.png" alt="Confusion Matrix">
+    <img src="https://github.com/user-attachments/assets/6cf6aa96-ad5d-4074-bb8e-2decb49fa18f" alt="Confusion Matrix">
 </body>
 </html>
